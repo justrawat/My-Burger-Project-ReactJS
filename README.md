@@ -1,3 +1,11 @@
+This is my main project in ReactJS
+
+Navigate to the src folder to check out all the source code for the project.You can also download the code and run it on your local machine.Cheers!
+
+Just in case you want to see how the code looks, here is the link to the screenshots of the project: https://drive.google.com/open?id=1W76yP7seydaBvBkwI9Iu4n6txTKCJJjy
+
+-----------------x Partition x-----------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
