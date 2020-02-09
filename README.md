@@ -1,8 +1,8 @@
-This is my main project in ReactJS
+Wanna customise your burgers before ordering them? This app is for you!
 
-Navigate to the src folder to check out all the source code for the project.You can also download the code and run it on your local machine.Cheers!
+You can just navigate to the src folder to check out all the source code for the project.You can also download the code and run it on your local machine.
 
-Just in case you want to see how the code looks, here is the link to the screenshots of the project: https://drive.google.com/open?id=1W76yP7seydaBvBkwI9Iu4n6txTKCJJjy
+In case you want to see how the project looks, here is the link to the screenshots of the project: https://drive.google.com/open?id=1W76yP7seydaBvBkwI9Iu4n6txTKCJJjy
 
 -----------------x Partition x-----------------
 
